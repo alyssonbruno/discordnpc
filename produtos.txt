@@ -1,0 +1,4 @@
+{"nome": "cerveja", "dados": {"preço": 3, "alias": ["birra", "cerveja", "goró", "rodada", "pinga"] }}
+{"nome": "comida", "dados": {"preço": 20, "alias": ["prato do dia", "prato da noite", "refeição", "gororoba", "almoço", "janta", "jantar"]}}
+{"nome": "vinho", "dados":{"preço": 10, "alias": []}}
+{"nome": "banho", "dados":{"preço": 10, "alias":[]}}
